@@ -43,4 +43,4 @@ async def register(ctx):
         await ctx.send("Incorrect password.")
 
 
-bot.run('MTA3MjYwODA2ODUyNjk0ODQ1NA.Gl0g81.1H6PfYSaDgXPk5MMfcC5aG9rZHWtdDzvk16zfc')
+bot.run('your_token')
